@@ -1,0 +1,8 @@
+=============== Dec 2, 2022 (PKT) ===============
+19:37:39.357119 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:37:39.366166 db@open opening
+19:37:39.366588 version@stat F·[] S·0B[] Sc·[]
+19:37:39.368929 db@janitor F·2 G·0
+19:37:39.368951 db@open done T·2.756503ms
+19:37:39.414859 db@close closing
+19:37:39.414948 db@close done T·87.227µs
